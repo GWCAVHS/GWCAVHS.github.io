@@ -1,14 +1,15 @@
-const getColorBySubject = (subject) => {
+import * as React from 'react';
+export const getColorBySubject = (subject) => {
     switch (subject) {
-        case 'Math':
-            return '#fce785'; 
         case 'English':
-            return '#fce785';
-        case 'Social Studies':
-            return '#fce785';
+            return '#e65e61';
+        case 'Math':
+            return ' #ed9a5e'; 
         case 'Science':
-            return '#fce785';
+                return '#fce785' 
+        case 'Social Studies':
+            return '#85fc96';
         case 'Electives':
-            return '#fce785';
+            return '#25e4f5';
     }
 }

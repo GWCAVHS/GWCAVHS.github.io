@@ -12,10 +12,11 @@ function App() {
         <GradeDisplay grade={10} />
         <GradeDisplay grade={11} />
         <GradeDisplay grade={12} />
-        <CourseSelection course={'math 1'} />
-        <CourseSelection course={'math 2'} />
-        <CourseSelection course={'math 3'} />
-        <CourseSelection course={'math 4'} />
+        <CourseSelection course={'English'} />
+        <CourseSelection course={'Math'} />
+        <CourseSelection course={'Science'} />
+        <CourseSelection course={'Social Studies'} />
+        <CourseSelection course={'Electives'} />
     </div>
   );
 }
