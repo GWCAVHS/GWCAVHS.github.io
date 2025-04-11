@@ -3,6 +3,8 @@ import './App.css';
 import AppTitle from './components/AppTitle/AppTitle';
 import GradeDisplay from './components/GradeDisplay/GradeDisplay';
 import CourseSelection from './components/CourseSelection/CourseSelection';
+import MasterAccordian from './components/MasterAccordian/MasterAccordian';
+
 
 function App() {
   return (
@@ -17,6 +19,7 @@ function App() {
         <CourseSelection course={'Science'} />
         <CourseSelection course={'Social Studies'} />
         <CourseSelection course={'Electives'} />
+        <MasterAccordian subject={'English'} courseDescription={"this is my course list"} /> 
     </div>
   );
 }
