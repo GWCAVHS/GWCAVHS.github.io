@@ -2,6 +2,7 @@
 import './App.css';
 import AppTitle from './components/AppTitle/AppTitle';
 import GradeDisplay from './components/GradeDisplay/GradeDisplay';
+import CourseDescriptionModal from './components/Modal/CourseDescription';
 
 function App() {
   return (
