@@ -7,12 +7,12 @@ import CourseDescriptionModal from './components/Modal/CourseDescription';
 function App() {
   return (
     <div className="App">
-        <AppTitle title={"PLANN IT"} />
-        <GradeDisplay grade={9} />
-        <GradeDisplay grade={10} />
-        <GradeDisplay grade={11} />
-        <GradeDisplay grade={12} />
-
+        <AppTitle title={'PLANN IT'} />
+        <GradeDisplay grade={"Grade 9"} />
+        <GradeDisplay grade={"Grade 10"} />
+        <GradeDisplay grade={"Grade 11"} />
+        <GradeDisplay grade={"Grade 12"} />
+        
         <br />
         <br />
         <CourseDescriptionModal
@@ -23,6 +23,7 @@ function App() {
           concurrent="N/A"
         />
     </div>
+    
   );
 }
 
