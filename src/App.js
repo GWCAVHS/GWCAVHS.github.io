@@ -17,9 +17,9 @@ function App() {
         <CourseDescriptionModal
           courseName="Math 101"
           credits={3}
-          description="This ia a math class"
-          prereq="na"
-          concurrent="na"
+          description="This is a math class."
+          prereq="N/A"
+          concurrent="N/A"
         />
     </div>
   );
