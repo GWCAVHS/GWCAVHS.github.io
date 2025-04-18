@@ -6,7 +6,7 @@ import CourseDescriptionModal from './components/Modal/CourseDescription';
 function App() {
   return (
     <div className="App">
-        <h1>hello world</h1>
+        <AppTitle title={'PLANN IT'} />
         <GradeDisplay grade={9} />
         <GradeDisplay grade={10} />
         <GradeDisplay grade={11} />
