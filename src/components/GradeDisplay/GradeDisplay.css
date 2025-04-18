@@ -1,4 +1,7 @@
 .grade {
     font-size: 30px;
     color: #653613;
+    float: left;
+    padding-right: 5vh;
+    
 }
