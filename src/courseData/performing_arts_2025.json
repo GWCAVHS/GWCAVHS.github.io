@@ -1,0 +1,132 @@
+[
+  {
+    "Course ID": 4054,
+    "Course Name": "Concert Band",
+    "Subject": "Performing Arts",
+    "Credits": 3,
+    "Description": "Concert Band is open to all 9th graders who wish to continue learning music through performance on their band instrument. Students in this class will rehearse various styles of wind music and perform at several required concerts and events. All members also receive individual lessons for the duration of the school year. Students are eligible to participate in instrumental music cocurricular activities: Jazz Ensemble, Pit Orchestra, Solo & Ensemble Festival, Percussion Ensemble, Flute Ensemble, Clarinet Ensemble, Rhythm and Blues Band and Athletic Band. Concert Band is a year-long course. Please register for all three trimesters.",
+    "Grade Eligibility": 9,
+    "Prerequisite": "",
+    "Concurrent Enrollment": ""
+  },
+  {
+    "Course ID": 4060,
+    "Course Name": "Symphonic Band",
+    "Subject": "Performing Arts",
+    "Credits": 3,
+    "Description": "The Symphonic Band is an advanced instrumental performance course focused on developing student instrumental skills and musical knowledge through the performance of wind literature of a high caliber from a variety of musical periods and styles. Throughout the course of the school year students are required to attend several concerts and events. All members also receive individual lessons for all three trimesters. Enrolled students are eligible to participate in instrumental music cocurricular activities Jazz Ensemble, Pit Orchestra, Solo & Ensemble Festival, Percussion Ensemble, Flute Ensemble, Clarinet Ensemble, Rhythm and Blues Band and Athletic Band. Symphonic Band is a year-long course. Please register for all three trimesters.",
+    "Grade Eligibility": "10 11 12",
+    "Prerequisite": "",
+    "Concurrent Enrollment": ""
+  },
+  {
+    "Course ID": 4064,
+    "Course Name": "Wind Ensemble",
+    "Subject": "Performing Arts",
+    "Credits": 3,
+    "Description": "The Wind Ensemble is a select group of wind and percussion musicians intent on studying and performing the highest caliber of wind literature available at several required concerts and events. Students in this advanced ensemble are selected by audition in the spring of the previous year. All members also receive individual lessons for the duration of the school year. Enrolled students are eligible to participate in instrumental music cocurricular activities: Jazz Ensemble, Pit Orchestra, Solo & Ensemble Festival, Percussion Ensemble, Flute Ensemble, Clarinet Ensemble, Rhythm and Blues Band and Athletic Band. Wind Ensemble is a full year activity. Please register for all three trimesters.",
+    "Grade Eligibility": "10 11 12",
+    "Prerequisite": "",
+    "Concurrent Enrollment": ""
+  },
+  {
+    "Course ID": 4151,
+    "Course Name": "9th Grade Treble Choir",
+    "Subject": "Performing Arts",
+    "Credits": 3,
+    "Description": "This choir is offered to 9th-grade treble singers entering the AVHS Choir program. Singing technique, music sight-reading, plus exciting literature from popular, Broadway, seasonal, and classical music will be studied and performed. The choir will perform at four public concerts each year. Participating during the fall trimester will result in expecting the student to continue winter and spring trimesters. Students will be expected to purchase or raise funds for performance uniforms. Full- time enrollment in a curricular choir class is a prerequisite for auditioned cocurricular ensemble membership.",
+    "Grade Eligibility": 9,
+    "Prerequisite": "",
+    "Concurrent Enrollment": ""
+  },
+  {
+    "Course ID": 4161,
+    "Course Name": "9th Grade Tenor/Bass Choir",
+    "Subject": "Performing Arts",
+    "Credits": 3,
+    "Description": "This choir is offered to 9th-grade tenor/bass singers entering the AVHS Choir program. Beginning singing technique, music sight-reading, plus exciting literature from popular, Broadway, seasonal, and classical music will be studied and performed. The choir will perform at four public concerts each year, as well as exchange programs with other district schools. Participating during the fall trimester will result in expecting the student to continue winter and spring trimester. Students will be expected to purchase or raise funds for performance uniforms. Full-time enrollment in a curricular choir class is a pre-requisite for auditioned cocurricular ensemble membership.",
+    "Grade Eligibility": 9,
+    "Prerequisite": "",
+    "Concurrent Enrollment": ""
+  },
+  {
+    "Course ID": 4171,
+    "Course Name": "Intermediate Treble Choir",
+    "Subject": "Performing Arts",
+    "Credits": 3,
+    "Description": "This choir is designed for treble voices who wish to develop or continue developing their singing skills at the high school level. Advanced singing technique, music sight-reading, plus literature from classical, seasonal, Broadway, and popular music sources will be studied and performed at four public concerts each year. Choir festivals and exchange programs with other schools and Region Solo-Ensemble Contest participation will also be scheduled. Students will be expected to purchase or raise funds for performance uniforms. Full-time enrollment in a curricular choir class is a pre-requisite for auditioned cocurricular ensemble membership.",
+    "Grade Eligibility": "10 11 12",
+    "Prerequisite": "",
+    "Concurrent Enrollment": ""
+  },
+  {
+    "Course ID": 4175,
+    "Course Name": "Intermediate Tenor/Bass Choir",
+    "Subject": "Performing Arts",
+    "Credits": 3,
+    "Description": "This choir is designed for tenor/bass voices who wish to develop or continue developing their singing skills at the high school level. Advanced singing technique, music sight-reading, plus literature from classical, seasonal, Broadway, and popular music sources will be studied and performed at four public concerts each year. Choir festivals and exchange programs with other schools and Region Solo-Ensemble Contest participation will also be scheduled. Students will be expected to purchase or raise funds for performance uniforms. Full-time enrollment in a curricular choir class is a pre- requisite for auditioned cocurricular ensemble membership.",
+    "Grade Eligibility": "10 11 12",
+    "Prerequisite": "",
+    "Concurrent Enrollment": ""
+  },
+  {
+    "Course ID": 4191,
+    "Course Name": "Valley Select Chorale",
+    "Subject": "Performing Arts",
+    "Credits": 3,
+    "Description": "Students in this mixed voice ensemble are selected for their advanced vocal ability and musical skills. Students will be expected to strive for perfection in choral music performance and continue to increase their singing technique and musical skills. A wide variety of a capella and accompanied choral literature is studied and performed. Choir members participate in four public concerts, fall choral festival, South Suburban Conference Choir Festival, and other statewide choral festival experiences. Students will be expected to purchase or raise funds for performance uniforms. Full time enrollment in a curricular choir class is a prerequisite for auditioned cocurricular ensemble membership.",
+    "Grade Eligibility": "11 12",
+    "Prerequisite": "",
+    "Concurrent Enrollment": ""
+  },
+  {
+    "Course ID": 4301,
+    "Course Name": "Dance Tech 1",
+    "Subject": "Performing Arts",
+    "Credits": 3,
+    "Description": "Dance Tech 1 is open to students who are entering the dance program at AVHS in grades 9-12. This course is a movement class on a daily basis and no prior dance experience is necessary. Students will learn hip hop, jazz, ballet, modern, salsa, swing dance, improvisation, and choreography skills. Performing in the fall dance show Just a Glimpse and the spring dance show Danceworks is a required (but fun) part of the class. Students are encouraged to sign up for all 3 trimesters of Dance Tech 1 but only 2 trimesters are required to move on to the next level. If you have had 4 or more years of previous dance training, please see instructor for proper placement in a dance class.",
+    "Grade Eligibility": "9 10 11 12",
+    "Prerequisite": "",
+    "Concurrent Enrollment": ""
+  },
+  {
+    "Course ID": 4304,
+    "Course Name": "Dance Tech 2",
+    "Subject": "Performing Arts",
+    "Credits": 3,
+    "Description": "Dance Tech 2 is a mid-level dance course that continues the study of dance learned in Dance Tech 1. Students will expand their study of modern, jazz, hip hop, ballet, salsa, and swing dance techniques. A more in-depth exploration of dance history, improvisation, and choreography skills are expected. Performing in the fall dance show Just a Glimpse and the spring dance show Danceworks are a required (but fun) part of this class. Students are encouraged to sign up for all 3 trimesters of Dance Tech 2 but only 2 trimesters are required to move on to the next level.",
+    "Grade Eligibility": "10 11 12",
+    "Prerequisite": 4301,
+    "Concurrent Enrollment": ""
+  },
+  {
+    "Course ID": 4241,
+    "Course Name": "Dance Tech 3",
+    "Subject": "Performing Arts",
+    "Credits": 3,
+    "Description": "Dance Tech 3 is a fast-paced intermediate level course that expands upon the dance learned in Dance Tech 1 and 2. Dance styles like modern, jazz, and hip hop are studied more in depth including a strong focus on choreography skills. Students will also study different media programs that are used in dance such as Garageband for music editing and iMovie for dance on camera. Performing in the fall dance show Just a Glimpse and the spring dance show Danceworks is a required part of this course. Students are encouraged to sign up for all 3 trimesters, but only 2 are required to move on to the next level.",
+    "Grade Eligibility": "10 11 12",
+    "Prerequisite": 4304,
+    "Concurrent Enrollment": ""
+  },
+  {
+    "Course ID": 4287,
+    "Course Name": "Advanced Dance Company",
+    "Subject": "Performing Arts",
+    "Credits": 3,
+    "Description": "Advanced Dance Company is a year-long course designed for a select group of dancers who are intent on studying and performing the highest caliber of dance technique, choreography, and dance-related topics. Students will explore multiple styles of dance at advanced levels and learn advanced levels of choreography, performance, and critique. Students perform in venues outside of school, work with guest teachers and choreographers, and take field trips to experience dance in the Twin Cities. Performing in the fall dance show Just a Glimpse and the spring dance show Danceworks is a required part of this class. Students are expected to sign up for all three trimesters of Advanced Dance.",
+    "Grade Eligibility": "11 12",
+    "Prerequisite": 4241,
+    "Concurrent Enrollment": ""
+  },
+  {
+    "Course ID": 4197,
+    "Course Name": "AP Music Theory",
+    "Subject": "Performing Arts",
+    "Credits": 3,
+    "Description": "This three-trimester AP Music Theory course is designed to meet the requirements that would be found in a first-year college course in integrated music theory and aural comprehension. The first weeks are spent reinforcing the \"rudiments\" of music theory (pitch and rhythmic notation, meter, scales, key signature, intervals, triads/seventh chords, and non-chord tones). The remainder of the course covers counterpoint, four-voice harmonization and harmonic function, as well as secondary dominants and modulation. Class activities include aural skill practice, sight-singing, lecture, written exercises, listening, analysis, and group study/critique of harmonization. Following successful completion of this course, students are strongly encouraged to take the Advanced Placement Exam in Music Theory. This course would be valuable to all music students, but is especially recommended to students considering a college music major. The successful completion of this course and exam should result in significantly less difficulty in their first year of college music theory.",
+    "Grade Eligibility": "11 12",
+    "Prerequisite": "",
+    "Concurrent Enrollment": ""
+  }
+]

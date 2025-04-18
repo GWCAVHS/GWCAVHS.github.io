@@ -1,8 +1,10 @@
 // add styles from App.css
 import './App.css';
 import AppTitle from './components/AppTitle/AppTitle';
+import CourseCard from './components/CourseCards/CourseCard';
 import GradeDisplay from './components/GradeDisplay/GradeDisplay';
 import CourseDescriptionModal from './components/Modal/CourseDescription';
+import performingArtsCourses from './courseData/performing_arts_2025.json';
 
 function App() {
   return (
@@ -15,6 +17,15 @@ function App() {
         
         <br />
         <br />
+        {performingArtsCourses.map((course) => (
+          <CourseDescriptionModal
+          courseName={course['Course Name']}
+          credits={course["Credits"]}
+          description={course["Description"]}
+          prereq={course["Prerequisite"]}
+          concurrent={course["Concurrent Enrollment"]}
+        />
+        ))}
         <CourseDescriptionModal
           courseName="Math 101"
           credits={3}
@@ -22,6 +33,9 @@ function App() {
           prereq="N/A"
           concurrent="N/A"
         />
+
+        <br />
+        <CourseCard />
     </div>
     
   );
