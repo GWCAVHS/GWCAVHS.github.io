@@ -1,6 +1,7 @@
 // add styles from App.css
 import './App.css';
-import GradeHeader from './components/grade-header/grade-header';
+import AppTitle from './components/AppTitle/AppTitle';
+import GradeDisplay from './components/GradeDisplay/GradeDisplay';
 
 function App() {
   return (
