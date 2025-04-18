@@ -1,42 +1,27 @@
 import * as React from 'react';
+import './MasterAccordian.css';
 import Accordion from '@mui/material/Accordion';
 import AccordionSummary from '@mui/material/AccordionSummary';
 import AccordionDetails from '@mui/material/AccordionDetails';
 import Typography from '@mui/material/Typography';
-import ArrowDownwardIcon from '@mui/icons-material/ArrowDownward';
 import ArrowDropDownIcon from '@mui/icons-material/ArrowDropDown';
 import CourseSelection from '../CourseSelection/CourseSelection';
 
 
 const MasterAccordian = ({subject, courseDescription}) => {
   return (
-    <div>
-      <Accordion>
-        <AccordionSummary
-          expandIcon={<ArrowDownwardIcon />}
-          aria-controls="panel1-content"
-          id="panel1-header"
-        >
-          <Typography component="span"><CourseSelection course={subject} /></Typography>
-        </AccordionSummary>
-        <AccordionDetails>
-          <Typography>
-            {courseDescription}
-          </Typography>
-        </AccordionDetails>
-      </Accordion>
+    <div className="CourseListAccordian">
       <Accordion>
         <AccordionSummary
           expandIcon={<ArrowDropDownIcon />}
           aria-controls="panel2-content"
           id="panel2-header"
         >
-          <Typography component="span">Accordion 2</Typography>
+          <Typography component="span"><CourseSelection course={subject} /></Typography>
         </AccordionSummary>
         <AccordionDetails>
           <Typography>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-            malesuada lacus ex, sit amet blandit leo lobortis eget.
+            {courseDescription}
           </Typography>
         </AccordionDetails>
       </Accordion>

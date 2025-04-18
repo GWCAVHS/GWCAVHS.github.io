@@ -9,17 +9,11 @@ import MasterAccordian from './components/MasterAccordian/MasterAccordian';
 function App() {
   return (
     <div className="App">
-        <AppTitle title={'PLANN IT'} />
-        <GradeDisplay grade={9} />
-        <GradeDisplay grade={10} />
-        <GradeDisplay grade={11} />
-        <GradeDisplay grade={12} />
-        <CourseSelection course={'English'} />
-        <CourseSelection course={'Math'} />
-        <CourseSelection course={'Science'} />
-        <CourseSelection course={'Social Studies'} />
-        <CourseSelection course={'Electives'} />
-        <MasterAccordian subject={'English'} courseDescription={"this is my course list"} /> 
+        <MasterAccordian subject={'English'} courseDescription={"English 101, English 102"} /> 
+        <MasterAccordian subject={'Math'} courseDescription={"Math 101, Math 102"} /> 
+        <MasterAccordian subject={'Science'} courseDescription={"Science 101, Science 102"} /> 
+        <MasterAccordian subject={'Social Studies'} courseDescription={"Social Studies 101, Social Studies 102"} />
+        <MasterAccordian subject={'Electives'} courseDescription={"Electives 101, Electives 102"} />  
     </div>
   );
 }
