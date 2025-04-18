@@ -5,11 +5,12 @@ import GradeHeader from './components/grade-header/grade-header';
 function App() {
   return (
     <div className="App">
-        <h1>hello world</h1>
-        <GradeHeader grade="9"></GradeHeader>
-        <GradeHeader grade="10"></GradeHeader>
-        <GradeHeader grade="11"></GradeHeader>
-        <GradeHeader grade="12"></GradeHeader>
+        <AppTitle title={'PLANN IT'} />
+        <GradeDisplay grade={"Grade 9"} />
+        <GradeDisplay grade={"Grade 10"} />
+        <GradeDisplay grade={"Grade 11"} />
+        <GradeDisplay grade={"Grade 12"} />
+        
     </div>
     
   );
