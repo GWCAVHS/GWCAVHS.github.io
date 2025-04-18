@@ -13,6 +13,15 @@ function App() {
         <GradeDisplay grade={"Grade 11"} />
         <GradeDisplay grade={"Grade 12"} />
         
+        <br />
+        <br />
+        <CourseDescriptionModal
+          courseName="Math 101"
+          credits={3}
+          description="This is a math class."
+          prereq="N/A"
+          concurrent="N/A"
+        />
     </div>
     
   );
