@@ -4,7 +4,7 @@ import { getColorBySubject } from "./CourseSelectionFunction";
 
 const CourseSelection = ({course}) => {
     return(
-        <div className="course" style={{background: getColorBySubject(course)}}>{course}</div>
+        <div className="course" style={{color: "white", background: getColorBySubject(course)}}>{course}</div>
     )
 }
 

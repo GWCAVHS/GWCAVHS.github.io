@@ -10,12 +10,16 @@ import CourseSelection from '../CourseSelection/CourseSelection';
 
 const MasterAccordian = ({subject, courseDescription}) => {
   return (
-    <div className="CourseListAccordian">
+    <div className="courseListAccordion">
       <Accordion>
         <AccordionSummary
           expandIcon={<ArrowDropDownIcon />}
           aria-controls="panel2-content"
           id="panel2-header"
+        style={{background:"black"}
+
+      
+        }
         >
           <Typography component="span"><CourseSelection course={subject} /></Typography>
         </AccordionSummary>
