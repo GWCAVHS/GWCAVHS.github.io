@@ -7,4 +7,4 @@ const GradeDisplay = ({grade}) => {
     )
 }
 
-export default GradeDisplay; 
+export default GradeDisplay;
